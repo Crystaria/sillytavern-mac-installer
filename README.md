@@ -800,10 +800,11 @@ rm ~/sillytavern-helper.sh
 遇到问题？欢迎反馈！
 
 - 📝 [GitHub Issues](https://github.com/Crystaria/sillytavern-mac-installer/issues) - 报告问题或建议
-- 💬 [GitHub Discussions](https://github.com/Crystaria/sillytavern-mac-installer/discussions) - 交流讨论
 - 💬 [SillyTavern Discord](https://discord.gg/sillytavern) - 官方社区
 
 **项目仓库：** https://github.com/Crystaria/sillytavern-mac-installer
+
+> **注意：** Discussions 功能需要在 GitHub 仓库设置中手动开启（Settings → Features → Discussions）
 
 ---
 
